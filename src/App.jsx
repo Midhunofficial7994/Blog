@@ -1,7 +1,7 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import Home from '../../Blogsss/Blog/Home';
-import List from '../../Blogsss/Blog/List';
+import Home from '../Blog/Home';
+import List from '../Blog/List';
 
 function App() {
   return (
